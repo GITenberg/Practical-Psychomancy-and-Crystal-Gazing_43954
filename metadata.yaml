@@ -1,0 +1,39 @@
+_repo: Practical-Psychomancy-and-Crystal-Gazing_43954
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43954-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Atkinson, William Walker
+    aliases:
+    - Vishita, Bhakta
+    - Panchadasi, Swami
+    - Ramacharaka, Yogi
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '4862'
+    url: http://www.gutenberg.org/2009/agents/4862
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/d#a662
+    - http://www.gutenberg.org/browse/authors/t#a5407
+    - http://en.wikipedia.org/wiki/William_Walker_Atkinson
+description: Have you ever wanted to try to make contact with the spirits of the departed,
+  or glimpse the future with the help of a crystal? If so, this comprehensive guide
+  from William Walker Atkinson offers a thorough introduction and plenty of practical
+  tips to get you started.
+gutenberg_issued: '2013-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Crystal gazing'
+- !lcsh 'Clairvoyance'
+- !lcsh 'Magic'
+title: Practical Psychomancy and Crystal Gazing
+url: http://www.gutenberg.org/ebooks/43954
